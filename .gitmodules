@@ -1,0 +1,51 @@
+[submodule "logseq-dev-theme"]
+	path = logseq-dev-theme
+	url = git@github.com:bigpager/logseq-dev-theme.git
+[submodule "logseq-plugin-block-calendar"]
+	path = logseq-plugin-block-calendar
+	url = git@github.com:bigpager/logseq-plugin-block-calendar.git
+[submodule "logseq-localassets-plugin"]
+	path = logseq-localassets-plugin
+	url = git@github.com:bigpager/logseq-localassets-plugin.git
+[submodule "logseq-copy-code-plugin"]
+	path = logseq-copy-code-plugin
+	url = git@github.com:bigpager/logseq-copy-code-plugin.git
+[submodule "logseq-keywordfrequency-plugin"]
+	path = logseq-keywordfrequency-plugin
+	url = git@github.com:bigpager/logseq-keywordfrequency-plugin.git
+[submodule "logseq-plugin-bullet-threading"]
+	path = logseq-plugin-bullet-threading
+	url = git@github.com:bigpager/logseq-plugin-bullet-threading.git
+[submodule "logseq-webpage-title"]
+	path = logseq-webpage-title
+	url = git@github.com:bigpager/logseq-webpage-title.git
+[submodule "logseq-plugin-multiple-assets"]
+	path = logseq-plugin-multiple-assets
+	url = https://github.com/bigpager/logseq-plugin-multiple-assets.git
+[submodule "logseq-awesome-links"]
+	path = logseq-awesome-links
+	url = https://github.com/bigpager/logseq-awesome-links.git
+[submodule "logseq-plugin-gpt3-openai"]
+	path = logseq-plugin-gpt3-openai
+	url = https://github.com/bigpager/logseq-plugin-gpt3-openai.git
+[submodule "logseq-helium-plugin"]
+	path = logseq-helium-plugin
+	url = https://github.com/bigpager/logseq-helium-plugin.git
+[submodule "logseq-plugin-block-to-page"]
+	path = logseq-plugin-block-to-page
+	url = https://github.com/bigpager/logseq-plugin-block-to-page.git
+[submodule "logseq-plugin-agenda"]
+	path = logseq-plugin-agenda
+	url = https://github.com/bigpager/logseq-plugin-agenda.git
+[submodule "logseq-plugin-link-preview"]
+	path = logseq-plugin-link-preview
+	url = git@github.com:bigpager/logseq-plugin-link-preview.git
+[submodule "logseq-automatic-linker"]
+	path = logseq-automatic-linker
+	url = git@github.com:bigpager/logseq-automatic-linker.git
+[submodule "logseq-plugin-merge-nested-blocks-into-one"]
+	path = logseq-plugin-merge-nested-blocks-into-one
+	url = git@github.com:bigpager/logseq-plugin-merge-nested-blocks-into-one.git
+[submodule "logseq-graph-analysis"]
+	path = logseq-graph-analysis
+	url = git@github.com:bigpager/logseq-graph-analysis.git
