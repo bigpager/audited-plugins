@@ -1,5 +1,5 @@
 # audited-plugins
-Clone using
+Clone using„
 
 ```bash
 git clone --recurse-submodules <repository_url>
@@ -9,9 +9,9 @@ git clone --recurse-submodules <repository_url>
 
 - [x] logseq-automatic-linker
 - [x] logseq-awesome-links
-- [ ] logseq-copy-code-plugin
-- [ ] logseq-dev-theme
-- [ ] logseq-graph-analysis
+- [x] logseq-copy-code-plugin
+- [x] logseq-dev-theme
+- [x] logseq-graph-analysis
 - [ ] logseq-helium-plugin
 - [ ] logseq-keywordfrequency-plugin
 - [ ] logseq-localassets-plugin
