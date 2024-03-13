@@ -4,8 +4,8 @@
   "description": "Clone using",
   "main": "index.js",
   "scripts": {
-    "push": "git submodule foreach 'git commit -am \"WIP $1\" && git push'",
-    "pull": "git submodule foreach 'git fetch && git pull'"
+    "push": "git submodule foreach 'git diff-index --quiet HEAD || git commit -am \"WIP\" && git push'",
+    "pull": "git submodule foreach 'git checkout main && git fetch && git pull'"
   },
   "repository": {
     "type": "git",
