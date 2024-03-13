@@ -21,22 +21,22 @@
 	url = git@github.com:bigpager/logseq-webpage-title.git
 [submodule "logseq-plugin-multiple-assets"]
 	path = logseq-plugin-multiple-assets
-	url = https://github.com/bigpager/logseq-plugin-multiple-assets.git
+	url = git@github.com:bigpager/logseq-plugin-multiple-assets.git
 [submodule "logseq-awesome-links"]
 	path = logseq-awesome-links
-	url = https://github.com/bigpager/logseq-awesome-links.git
+	url = git@github.com:bigpager/logseq-awesome-links.git
 [submodule "logseq-plugin-gpt3-openai"]
 	path = logseq-plugin-gpt3-openai
-	url = https://github.com/bigpager/logseq-plugin-gpt3-openai.git
+	url = git@github.com:bigpager/logseq-plugin-gpt3-openai.git
 [submodule "logseq-helium-plugin"]
 	path = logseq-helium-plugin
-	url = https://github.com/bigpager/logseq-helium-plugin.git
+	url = git@github.com:bigpager/logseq-helium-plugin.git
 [submodule "logseq-plugin-block-to-page"]
 	path = logseq-plugin-block-to-page
-	url = https://github.com/bigpager/logseq-plugin-block-to-page.git
+	url = git@github.com:bigpager/logseq-plugin-block-to-page.git
 [submodule "logseq-plugin-agenda"]
 	path = logseq-plugin-agenda
-	url = https://github.com/bigpager/logseq-plugin-agenda.git
+	url = git@github.com:bigpager/logseq-plugin-agenda.git
 [submodule "logseq-plugin-link-preview"]
 	path = logseq-plugin-link-preview
 	url = git@github.com:bigpager/logseq-plugin-link-preview.git

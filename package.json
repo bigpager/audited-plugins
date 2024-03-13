@@ -1,0 +1,22 @@
+{
+  "name": "audited-plugins",
+  "version": "1.0.0",
+  "description": "Clone using",
+  "main": "index.js",
+  "scripts": {
+    "push": "git submodule foreach 'git commit -am \"WIP $1\" && git push'",
+    "pull": "git submodule foreach 'git fetch && git pull'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigpager/audited-plugins.git"
+  },
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/bigpager/audited-plugins/issues"
+  },
+  "homepage": "https://github.com/bigpager/audited-plugins#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
