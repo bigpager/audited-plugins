@@ -17,8 +17,8 @@ git clone --recurse-submodules <repository_url>
 - [x] logseq-localassets-plugin
 - [x] logseq-plugin-block-calendar
 - [x] logseq-plugin-block-to-page
-- [ ] logseq-plugin-bullet-threading
-- [ ] logseq-plugin-gpt3-openai
+- [x] logseq-plugin-bullet-threading
+- [x] logseq-plugin-gpt3-openai
 - [ ] logseq-plugin-link-preview
 - [ ] logseq-plugin-merge-nested-blocks-into-one
 - [ ] logseq-plugin-multiple-assets
