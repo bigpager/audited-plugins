@@ -15,7 +15,6 @@ git clone --recurse-submodules <repository_url>
 - [x] logseq-helium-plugin
 - [x] logseq-keywordfrequency-plugin
 - [x] logseq-localassets-plugin
-- [ ] logseq-plugin-agenda
 - [ ] logseq-plugin-block-calendar
 - [ ] logseq-plugin-block-to-page
 - [ ] logseq-plugin-bullet-threading
