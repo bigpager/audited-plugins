@@ -13,8 +13,8 @@ git clone --recurse-submodules <repository_url>
 - [x] logseq-dev-theme
 - [x] logseq-graph-analysis
 - [x] logseq-helium-plugin
-- [ ] logseq-keywordfrequency-plugin
-- [ ] logseq-localassets-plugin
+- [x] logseq-keywordfrequency-plugin
+- [x] logseq-localassets-plugin
 - [ ] logseq-plugin-agenda
 - [ ] logseq-plugin-block-calendar
 - [ ] logseq-plugin-block-to-page
