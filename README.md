@@ -19,7 +19,7 @@ git clone --recurse-submodules <repository_url>
 - [x] logseq-plugin-block-to-page
 - [x] logseq-plugin-bullet-threading
 - [x] logseq-plugin-gpt3-openai
-- [ ] logseq-plugin-link-preview
-- [ ] logseq-plugin-merge-nested-blocks-into-one
-- [ ] logseq-plugin-multiple-assets
-- [ ] logseq-webpage-title
+- [x] logseq-plugin-link-preview
+- [x] logseq-plugin-merge-nested-blocks-into-one
+- [x] logseq-plugin-multiple-assets
+- [x] logseq-webpage-title
