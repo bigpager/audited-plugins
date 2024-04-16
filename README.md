@@ -1,5 +1,5 @@
 # audited-plugins
-Clone using„
+Clone using
 
 ```bash
 git clone --recurse-submodules <repository_url>
